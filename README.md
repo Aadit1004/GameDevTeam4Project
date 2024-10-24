@@ -4,3 +4,4 @@
 
 Member List
 - Aadit Rao
+- Vincent Luong
